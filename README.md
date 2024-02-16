@@ -1,5 +1,5 @@
 type in cmd/terminal
 ========================
-cd ./myproject
-mvn clean install
-mvn exec:java -Dexec.mainClass="com.example.App"
+cd ./myproject \n
+mvn clean install \n
+mvn exec:java -Dexec.mainClass="com.example.App" \n
